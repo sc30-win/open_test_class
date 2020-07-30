@@ -1,6 +1,6 @@
 # Open Test Class
 [![Build Status](https://github.com/sc30-win/open_test_class/workflows/CI/badge.svg)](https://github.com/alaahong/open_test_class)
-[![Code Quality Score](https://www.code-inspector.com/project/4050/score/svg)](https://www.code-inspector.com/project/4050/score/svg)
+[![Code Quality Score](https://www.code-inspector.com/project/11655/score/svg)](https://www.code-inspector.com/project/4050/score/svg)
 
 ------
 
@@ -17,7 +17,7 @@
 
 希望，我们可以遇到这样的您：
 * 认真理解题目的要求，若有不明确的地方，可以直接提[issue](https://github.com/alaahong/open_standard_class/issues)沟通 或 通过HR/Vendor/猎头等反馈
-* 尽量提交可以编译运行的项目，至少也应该是可以通过**Maven**构建的 [![Build Status](https://github.com/alaahong/open_test_class/workflows/CI/badge.svg)](https://github.com/alaahong/open_test_class)
+* 尽量提交可以编译运行的项目，至少也应该是可以通过**Maven**构建的 [![Build Status](https://github.com/sc30-win/open_test_class/workflows/CI/badge.svg)](https://github.com/sc30-win/open_test_class)
 * 项目不依赖于特定的IDE，可以通过命令行完成基本的CICD引用
 * 思路清晰，代码规范，尽量更好地完成任务，针对**项目结构**和**代码质量**进行了完善 
 * 允许锦上添花，额外增加体现个人情况的功能，但是无视题目要求自行发挥的，直接判定失败

@@ -1,5 +1,5 @@
 # Open Test Class
-[![Build Status](https://github.com/alaahong/open_test_class/workflows/CI/badge.svg)](https://github.com/alaahong/open_test_class)
+[![Build Status](https://github.com/sc30-win/open_test_class/workflows/CI/badge.svg)](https://github.com/alaahong/open_test_class)
 [![Code Quality Score](https://www.code-inspector.com/project/4050/score/svg)](https://www.code-inspector.com/project/4050/score/svg)
 
 ------
